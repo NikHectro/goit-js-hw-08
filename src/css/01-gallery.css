@@ -40,3 +40,8 @@
 .gallery__link:hover {
   cursor: zoom-in;
 }
+
+li {
+  list-style-type: none;
+  /* Убираем маркеры */
+}
